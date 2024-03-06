@@ -1,0 +1,12 @@
+site_name: 'Backstage TEST'
+site_description: 'Main documentation for BackstageTEST features and platform APIs'
+repo_url: https://github.com/germanfo/backstage-testing
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Is this working?: 'overview/what-is-backstage.md'
