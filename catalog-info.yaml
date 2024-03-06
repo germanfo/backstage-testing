@@ -6,6 +6,15 @@ metadata:
     github.com/project-slug: germanfo/backstage-testing
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
+  type: library
   lifecycle: unknown
   owner: guests
+  links:
+    - title: Website
+      url: http://backstage.io
+    - title: Documentation
+      url: https://backstage.io/docs
+    - title: Storybook
+      url: https://backstage.io/storybook
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
