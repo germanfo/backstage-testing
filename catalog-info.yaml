@@ -4,7 +4,7 @@ metadata:
   name: backstage-testing
   annotations:
     github.com/project-slug: germanfo/backstage-testing
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   lifecycle: unknown
